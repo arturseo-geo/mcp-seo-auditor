@@ -1,0 +1,20 @@
+{
+  "name": "mcp-seo-auditor",
+  "version": "1.0.0",
+  "description": "MCP server for on-page SEO auditing and JSON-LD schema validation",
+  "main": "index.js",
+  "bin": {
+    "mcp-seo-auditor": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0",
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0"
+  },
+  "keywords": ["mcp", "seo", "audit", "schema", "claude-code"],
+  "author": "Artur Ferreira / TheGEOLab.net",
+  "license": "MIT"
+}
