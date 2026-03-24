@@ -87,3 +87,7 @@ Found this useful? ⭐ Star the repo and connect:
 ## Licence
 
 MIT — see LICENSE
+
+---
+
+Built and maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)** · [GEO Brand Citation Index](https://thegeolab.net/geo-brand-citation-index/) · [MIT License](LICENSE)
