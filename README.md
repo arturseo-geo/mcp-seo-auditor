@@ -87,6 +87,16 @@ All server code is original writing. No files were copied or adapted from any so
 Found this useful? ⭐ Star the repo and connect:
 [🌐 thegeolab.net](https://thegeolab.net) · [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
 
+## Related Repos
+
+- [claude-code-mcps](https://github.com/arturseo-geo/claude-code-mcps) — All 5 MCP servers in one collection
+- [mcp-seo-auditor](https://github.com/arturseo-geo/mcp-seo-auditor) — On-page SEO audit + JSON-LD validation
+- [mcp-serp-intel](https://github.com/arturseo-geo/mcp-serp-intel) — SERP weak spots, PAA trees, intent comparison
+- [mcp-common-crawl](https://github.com/arturseo-geo/mcp-common-crawl) — Free backlink discovery via Common Crawl
+- [mcp-gsc-advanced](https://github.com/arturseo-geo/mcp-gsc-advanced) — GSC cannibalization, rank changes
+- [mcp-wordpress-setup](https://github.com/arturseo-geo/mcp-wordpress-setup) — WordPress MCP server setup guide
+
+
 ## Licence
 
 MIT — see LICENSE
